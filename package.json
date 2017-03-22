@@ -17,5 +17,8 @@
   },
   "browserify": {
     "transform": ["./browser/transform.js"]
+  },
+  "devDependencies": {
+   "gitbook-cli": "^2.3.0"
   }
 }
