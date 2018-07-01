@@ -21,13 +21,13 @@
 
 ## Forms
 * [Form](widgets/forms/form.md)
-* [Input](widets/forms/input.md) (abstract)
-* [Textarea](widets/forms/textarea.md)
-* [Textbox](widets/forms/textbox.md)
-* [Button](widets/forms/button.md)
-* [Checkbox](widets/forms/checkbox.md)
-* [RadioSet](widets/forms/radioset.md)
-* [RadioButton](widets/forms/radioset.md#RadioButton)
+* [Input](widgets/forms/input.md) (abstract)
+* [Textarea](widgets/forms/textarea.md)
+* [Textbox](widgets/forms/textbox.md)
+* [Button](widgets/forms/button.md)
+* [Checkbox](widgets/forms/checkbox.md)
+* [RadioSet](widgets/forms/radioset.md)
+* [RadioButton](widgets/forms/radioset.md#RadioButton)
 
 ## Prompts
 * [Prompt](widgets/prompts/prompt.md)
